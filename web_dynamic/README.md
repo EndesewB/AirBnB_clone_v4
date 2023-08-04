@@ -51,7 +51,7 @@ The Airbnb Clone - Web Dynamic project is designed to demonstrate a dynamic web 
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/your-username/airbnb-clone.git`
+1. Clone this repository: `git clone https://github.com/EndesewB/AirBnB_clone_v4.git`
 2. Navigate to the project directory: `cd airbnb-clone`
 3. Install backend dependencies: `cd backend && npm install`
 4. Install frontend dependencies: `cd ../frontend && npm install`
