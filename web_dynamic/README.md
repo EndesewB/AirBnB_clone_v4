@@ -62,7 +62,7 @@ The Airbnb Clone - Web Dynamic project is designed to demonstrate a dynamic web 
 
 ## Usage
 
-- Access the web application in your browser at `http://localhost:3000`.
+- Access the web application in your browser at `http://localhost:5000`.
 - Register a user account or log in with existing credentials.
 - Explore property listings, apply filters, and view property details.
 - Make bookings, leave reviews, and manage your profile.
@@ -82,5 +82,3 @@ Contributions to this project are welcome! To contribute:
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize this README according to your project's specific details. Make sure to provide clear instructions for installation, usage, and contribution guidelines. Good luck with your Airbnb Clone - Web Dynamic project!
