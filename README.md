@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Endesew Bantayehu - [Github](https://github.com/EndesewB) / [Twitter]
+
 Mekonen Engdaw - [Github](https://github.com/MokiEng) / [Twitter](https://twitter.com/MeconenM)  
 
 
