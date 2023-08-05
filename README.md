@@ -156,13 +156,13 @@ No known bugs at this time.
 ## Authors
 Repo forked from the V3 made by:
 
-Alexa Orrico -https://github.com/alexaorrico/https://twitter.com/alexa_orrico
+Alexa Orrico -Github(https://github.com/alexaorrico) / Twitter(https://twitter.com/alexa_orrico)
 
-Jennifer Huang -https://github.com/jhuang10123/https://twitter.com/earthtojhuang
+Jennifer Huang -Github(https://github.com/jhuang10123) / Twitter(https://twitter.com/earthtojhuang)
 
-Jhoan Zamora -https://github.com/jzamora5/https://twitter.com/JhoanZamora10
+Jhoan Zamora -Github(https://github.com/jzamora5) / Twitter(https://twitter.com/JhoanZamora10)
 
-David Ovalle -https://github.com/Nukemenonai/https://twitter.com/disartDave
+David Ovalle -Github(https://github.com/Nukemenonai) / Twitter(https://twitter.com/disartDave)
 
 V4 made by:
 
