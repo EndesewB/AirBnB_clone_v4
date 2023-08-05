@@ -157,8 +157,11 @@ No known bugs at this time.
 Repo forked from the V3 made by:
 
 Alexa Orrico -https://github.com/alexaorrico/https://twitter.com/alexa_orrico
+
 Jennifer Huang -https://github.com/jhuang10123/https://twitter.com/earthtojhuang
+
 Jhoan Zamora -https://github.com/jzamora5/https://twitter.com/JhoanZamora10
+
 David Ovalle -https://github.com/Nukemenonai/https://twitter.com/disartDave
 
 V4 made by:
